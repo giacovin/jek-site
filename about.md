@@ -16,7 +16,7 @@ Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
 male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
 1. [EDTA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4486448/)
-2. Exit ex huic
+2. [Treatment Strategies for Infected Wounds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6225154/)
 3. Quod consiste agitataque claustraque vicina videt lacertis
 4. Loquor videt
 5. Ardua non igne caelesti coniugis cognovi diversorum
