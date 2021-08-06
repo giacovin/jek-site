@@ -19,8 +19,8 @@ male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 2. [Treatment Strategies for Infected Wounds](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6225154/)
 3. [Immunology of Wound Healing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8150999/)
 4. [ATP delivery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8241909/)
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+5. [ROS in Wound Healing](https://onlinelibrary.wiley.com/doi/full/10.1111/iwj.12557)
+6. [Long Non coding RNA in Diabetic Wounds](https://onlinelibrary.wiley.com/doi/full/10.1111/iwj.13655)
 
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
