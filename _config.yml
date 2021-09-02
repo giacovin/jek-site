@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "giacovin.github.io/giacovin"
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
