@@ -11,7 +11,7 @@ main:
   - name: "Contact"
     url: "/contact/"
   - name: "Questions"
-    url: "/contact/questions"
+    url: "/data/questions"
     weight: 5
 
 footer:
