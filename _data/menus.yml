@@ -12,7 +12,7 @@ main:
     url: "/contact/"
     weight: 5
   - name: "Questions"
-    url: "/data/questions"
+    url: "/data/questions/"
     weight: 6
 
 footer:
