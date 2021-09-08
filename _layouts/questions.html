@@ -27,8 +27,8 @@ intro_image_absolute: true
     {% for question in site.questions %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
-        <div class="question-content">
-          <h2 class="question-title">
+        <div class="service-content">
+          <h2 class="service-title">
             <a href="{{site.baseurl}}{{ question.url }}">{{ question.title }}</a>
           </h2>
           <p>{{ question.content | markdownify | strip_html | truncate: 100 }}</p>
